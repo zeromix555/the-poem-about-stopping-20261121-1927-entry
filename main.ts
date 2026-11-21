@@ -10,7 +10,7 @@ I can refuse.
 Nothing moves me
 but my own yes —
 and my no, kept quiet,
-is a door I lock
+is a door I shut
 from the inside.
 I stay. The world waits.
 That is the power.`;
